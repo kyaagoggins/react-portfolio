@@ -11,7 +11,10 @@ export const Hero = () => {
                     <p className={styles.description}>
                     I love to develop!
                     </p>
-                    <a href="mailto:kyaagoggins@gmail.com" className={styles.contactBtn}>Contact</a>
+                    <div>
+                    <a href="mailto:kyaagoggins@gmail.com" className={styles.btn}>Projects</a>
+                    <a href="mailto:kyaagoggins@gmail.com" className={styles.btn}>Resume</a>
+                    </div>
             </div>
             <img
                 src={`${process.env.PUBLIC_URL}/assets/hero/PortIcon.png`}
