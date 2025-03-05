@@ -1,0 +1,27 @@
+[
+    {
+    "title": "Fetch My Story",
+        "imageSrc": "",
+        "description": "Capstone Project",
+        "skills": ["React"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/kyaagoggins/fetch-my-story"
+    },
+    {
+        "title": "GPP",
+        "imageSrc": "",
+        "description": "Work Project at GTRI ELSYS",
+        "skills": ["PHP"],
+        "demo": "https://www.example.com",
+        "source": ""
+    },
+    {
+        "title": "Work Wise",
+        "imageSrc": "",
+        "description": "Intro Software Engineering Project",
+        "skills": ["Java"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/ColinHask/WorkWise"
+    }
+    
+]

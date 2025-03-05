@@ -1,0 +1,26 @@
+[
+    {
+        "position": "Software Engineering Intern",
+        "organisation": "Intel",
+        "startDate": "May 2024",
+        "endDate": "Aug 2024",
+        "experiences": ["Full stack development of internal applications for Intel's network and infrastructure"],
+        "imageSrc": ""
+    },
+    {
+        "position": "Web Development Student Assistant",
+        "organisation": "Georgia Tech Research Institute",
+        "startDate": "Aug 2023",
+        "endDate": "Present",
+        "experiences": ["Full stack development of internal applications for ELSYS IT lab", "Drive applications to production for GTRI wide usage"],
+        "imageSrc": ""
+    },
+    {
+        "position": "Corporate IT Intern",
+        "organisation": "Republic National Distributing Company",
+        "startDate": "May 2023",
+        "endDate": "July 2023",
+        "experiences": [".Net backend support", "React framework UI implementation"],
+        "imageSrc": ""
+    }
+]
