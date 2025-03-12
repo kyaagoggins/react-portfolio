@@ -1,26 +1,18 @@
 [
     {
     "title": "Fetch My Story",
-        "imageSrc": "",
-        "description": "Capstone Project",
-        "skills": ["React"],
-        "demo": "https://www.example.com",
+        "imageSrc": "/assets/projects/AAULogo.png",
+        "description": "Foster Communication and Pet Bio Generation Application.",
+        "skills": ["React Javascript", "AI Voice-to-Text", "HTML", "CSS", "MaterialUi"],
+        "site": "./FetchMyStory.jsx",
         "source": "https://github.com/kyaagoggins/fetch-my-story"
     },
     {
-        "title": "GPP",
-        "imageSrc": "",
-        "description": "Work Project at GTRI ELSYS",
-        "skills": ["PHP"],
-        "demo": "https://www.example.com",
-        "source": ""
-    },
-    {
         "title": "Work Wise",
-        "imageSrc": "",
+        "imageSrc": "/assets/projects/WorkWise.png",
         "description": "Intro Software Engineering Project",
-        "skills": ["Java"],
-        "demo": "https://www.example.com",
+        "skills": ["Java", "JSwing"],
+        "site": "https://www.example.com",
         "source": "https://github.com/ColinHask/WorkWise"
     }
     

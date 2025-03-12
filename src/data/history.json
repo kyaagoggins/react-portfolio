@@ -1,26 +1,26 @@
 [
     {
-        "position": "Software Engineering Intern",
-        "organisation": "Intel",
-        "startDate": "May 2024",
-        "endDate": "Aug 2024",
-        "experiences": ["Full stack development of internal applications for Intel's network and infrastructure"],
-        "imageSrc": ""
-    },
-    {
         "position": "Web Development Student Assistant",
-        "organisation": "Georgia Tech Research Institute",
+        "organization": "Georgia Tech Research Institute",
         "startDate": "Aug 2023",
         "endDate": "Present",
-        "experiences": ["Full stack development of internal applications for ELSYS IT lab", "Drive applications to production for GTRI wide usage"],
-        "imageSrc": ""
+        "experiences": ["Key developer to now GTRI-wide procurement application", "full stack development on major workflows using PHP, SQL, Doctrine Dbal, and MariaDB"],
+        "imageSrc": "/assets/experience/gtri.png"
+    },
+    {
+        "position": "Software Engineering Intern",
+        "organization": "Intel",
+        "startDate": "May 2024",
+        "endDate": "Aug 2024",
+        "experiences": ["Full stack development for Intel's network and infrastructure", "Led the frontend of the self service tool", "C# ASP .Net Core 8 and API endpoints"],
+        "imageSrc": "/assets/experience/intel.png"
     },
     {
         "position": "Corporate IT Intern",
-        "organisation": "Republic National Distributing Company",
+        "organization": "Republic National Distributing Company",
         "startDate": "May 2023",
         "endDate": "July 2023",
         "experiences": [".Net backend support", "React framework UI implementation"],
-        "imageSrc": ""
+        "imageSrc": "/assets/experience/rndc.png"
     }
 ]
