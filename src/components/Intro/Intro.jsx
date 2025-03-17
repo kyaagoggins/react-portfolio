@@ -7,10 +7,10 @@ export const Intro = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Kyaa</h1>
                     <p className={styles.description}>
-                    I am a honors undergraduate with a Bachelor's in Software Engineering and a Minor in Mathematics. I am extremely passionate about analysis in both mathematical situations and technologically. I have leadership and hands on field experience that I would love to apply and learn more from. 
+                    Honors undergraduate with a Bachelor's in Software Engineering and a Minor in Mathematics. Passionate about building scalable, user-friendly applications and solving complex problems through technology. Experience in frontend development, backend systems, and strong foundation in software development. Proven leadership in project management and system design, delivering impactful solutions for real-world applications. Always eager to learn, innovate, and drive efficiency in software development.
                     </p>
                     <div>
-                    <a href="mailto:kyaagoggins@gmail.com" className={styles.btn}>Projects</a>
+                    <a href="#projects" className={styles.btn}>Projects</a>
                     <a href='./assets/hero/resume.pdf' download="Kyaa_Resume.pdf" className={styles.btn}>Resume</a>
                     </div>
             </div>

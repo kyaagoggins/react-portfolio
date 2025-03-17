@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./ProjectCard.module.css";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, source },
+  project: { title, imageSrc, description, skills, source, site },
 }) => {
   return (
     <div className={styles.container}>
@@ -12,7 +12,16 @@ export const ProjectCard = ({
         className={styles.image}
       />
       <h3 className={styles.title}>{title}</h3>
-      <p className={styles.description}>{description}</p>
+      <ul className={styles.description}>
+        {description.map((description, id) => {
+          return (
+            <li key={id} className={styles.bullet}>
+              {description}
+            </li>
+          );
+        })}
+
+      </ul>
       <ul className={styles.skills}>
         {skills.map((skill, id) => {
           return (
@@ -23,8 +32,11 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">
+        <a href={site} className={styles.link} target="_blank" rel="noopener noreferrer">
           Learn More
+        </a>
+        <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">
+          Source Code
         </a>
       </div>
     </div>
