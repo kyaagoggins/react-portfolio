@@ -11,7 +11,7 @@ export const Intro = () => {
                     </p>
                     <div>
                     <a href="#projects" className={styles.btn}>Projects</a>
-                    <a href='./assets/hero/resume.pdf' download="Kyaa_Resume.pdf" className={styles.btn}>Resume</a>
+                    <a href='./assets/intro/resume.pdf' download="Kyaa_Resume.pdf" className={styles.btn}>Resume</a>
                     </div>
             </div>
             <img
