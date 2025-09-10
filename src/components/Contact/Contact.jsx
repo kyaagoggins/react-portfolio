@@ -19,11 +19,15 @@ export const Contact = () => {
             src={}
             alt="LinkedIn icon"
           /> */}
-          <a href="https://www.linkedin.com/kyaa=goggins">linkedin.com/kyaa-goggins</a>
+          <a href="https://www.linkedin.com/kyaa=goggins">
+            linkedin.com/in/kyaa-goggins/
+          </a>
         </li>
         <li className={styles.link}>
           {/* <img src={ alt="Github icon" /> */}
-          <a href="https://www.github.com/kyaagoggins">github.com/kyaagoggins</a>
+          <a href="https://www.github.com/kyaagoggins">
+            github.com/kyaagoggins
+          </a>
         </li>
       </ul>
     </footer>

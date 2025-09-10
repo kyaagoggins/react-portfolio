@@ -1,33 +1,68 @@
 [
-    {
+  {
     "title": "Fetch My Story",
-        "imageSrc": "/assets/projects/fetchMyStory.png",
-        "description": [
-            "Foster Communication and Pet Bio Generation Application.", 
-            "Originally developed as a senior proof-of-concept for Angels Among Us Pet Rescue, this project evolved into a fully functional application, available to support all 11,000 Petfinder organizations.",
-            "Integrated voice-to-text transcription and sentiment analysis to generate engaging pet bios and improve foster communication.",
-            "Lead, designed, and developed an intuitive React based UI using JavaScript, HTML, CSS, and Material UI, ensuring a seamless user experience.",
-            "Expanded the project beyond its initial scope, demonstrating the ability to create real-world, high impact software solutions through technology and secure system design."
-        ],
-        "skills": ["React Javascript", "AI Voice-to-Text", "HTML", "CSS", "MaterialUi", "UI/UX development", "Full-stack collaboration"],
-        "site": "https://fetchmystory.com/home.php",
-        "source": "https://github.com/kyaagoggins/fetch-my-story"
-    },
-    {
-        "title": "Work Wise",
-        "imageSrc": "/assets/projects/WorkWise.png",
-        "description": [
-            "Course: Intro to Software Engineering (Group Project)", 
-            "Developed a web-based platform designed to assist entry-level job seekers evaluate companies prior to applying.",
-            "The application allowed users to rate and review companies based on workplace experience, culture, and benefits, providing insights for prospective employees.",
-            "Designed and developed the user interface, ensuring a responsivr and intuitive experience.",
-            "Assigned tasks, managed development timelines, and maintained project efficiency.",
-            "Led the final code review, debugging, and integration of various components to ensure seamless functionality.",
-            "To view this project, download the source code folder and start the project."
-        ],
-        "skills": ["Java", "JSwing", "Full-Stack", "Leadership", "Software Development Principles"],
-        "site": "https://github.com/ColinHask/WorkWise",
-        "source": "https://github.com/ColinHask/WorkWise"
-    }
-    
+    "imageSrc": "/assets/projects/fetchMyStory.png",
+    "description": [
+      "Foster Communication and Pet Bio Generation Application.",
+      "Originally developed as a senior proof-of-concept for Angels Among Us Pet Rescue, this project evolved into a fully functional application, available to support all 11,000 Petfinder organizations.",
+      "Integrated voice-to-text transcription and sentiment analysis to generate engaging pet bios and improve foster communication.",
+      "Lead, designed, and developed an intuitive React based UI using JavaScript, HTML, CSS, and Material UI, ensuring a seamless user experience.",
+      "Expanded the project beyond its initial scope, demonstrating the ability to create real-world, high impact software solutions through technology and secure system design."
+    ],
+    "skills": [
+      "React Javascript",
+      "AI Voice-to-Text",
+      "HTML",
+      "CSS",
+      "MaterialUi",
+      "UI/UX development",
+      "Full-stack collaboration"
+    ],
+    "site": "https://fetchmystory.com/home.php",
+    "source": "https://github.com/kyaagoggins/fetch-my-story"
+  },
+  {
+    "title": "Devflow",
+    "imageSrc": "/assets/projects/Devflow.png",
+    "description": [
+      "Course: Project Management SWE (Group Project)",
+      "Led development of DevFlow, a web-based project management application designed to help software teams streamline planning, task tracking, and progress monitoring.",
+      "The platform featured dashboards, requirements tracking, effort monitoring, and role-based task management to improve collaboration and transparency.",
+      "Implemented frontend components using HTML, CSS, and JavaScript, focusing on usability and intuitive design.",
+      "Assigned tasks, managed communication, and ensured all milestones were met, keeping the team on track toward delivery.",
+      "Oversaw quality assurance through reviews, debugging, and integration to ensure a functional and reliable application."
+    ],
+    "skills": [
+      "Javascript",
+      "HTML/CSS",
+      "Agile/Jira",
+      "Full-Stack",
+      "Leadership/Team Lead",
+      "SDLC"
+    ],
+    "site": "https://github.com/kyaagoggins/devflow",
+    "source": "https://github.com/kyaagoggins/devflow"
+  },
+  {
+    "title": "Work Wise",
+    "imageSrc": "/assets/projects/WorkWise.png",
+    "description": [
+      "Course: Intro to Software Engineering (Group Project)",
+      "Developed a web-based platform designed to assist entry-level job seekers evaluate companies prior to applying.",
+      "The application allowed users to rate and review companies based on workplace experience, culture, and benefits, providing insights for prospective employees.",
+      "Designed and developed the user interface, ensuring a responsive and intuitive experience.",
+      "Assigned tasks, managed development timelines, and maintained project efficiency.",
+      "Led the final code review, debugging, and integration of various components to ensure seamless functionality.",
+      "To view this project, download the source code folder and start the project."
+    ],
+    "skills": [
+      "Java",
+      "JSwing",
+      "Full-Stack",
+      "Leadership",
+      "Software Development Principles"
+    ],
+    "site": "https://github.com/ColinHask/WorkWise",
+    "source": "https://github.com/ColinHask/WorkWise"
+  }
 ]
