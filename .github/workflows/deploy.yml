@@ -3,10 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Deploy when pushing to main
+      - main # Trigger deployment when pushing to main
 
 permissions:
-  contents: write # Needed to push to gh-pages
+  contents: write
 
 jobs:
   deploy:
@@ -24,12 +24,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build project
-        run: npm run build
+      - name: Build React app
+        run: npm run predeploy # runs build as defined in package.json
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build # React build output
-          publish_branch: gh-pages
+      - name: Deploy to gh-pages
+        run: npm run deploy # pushes ./build to gh-pages branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
