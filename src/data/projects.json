@@ -23,7 +23,7 @@
   },
   {
     "title": "Devflow",
-    "imageSrc": "/assets/projects/Devflow.png",
+    "imageSrc": "/assets/projects/devflow.png",
     "description": [
       "Course: Project Management SWE (Group Project)",
       "Led development of DevFlow, a web-based project management application designed to help software teams streamline planning, task tracking, and progress monitoring.",
