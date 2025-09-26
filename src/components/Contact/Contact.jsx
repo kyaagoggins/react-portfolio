@@ -19,7 +19,7 @@ export const Contact = () => {
             src={}
             alt="LinkedIn icon"
           /> */}
-          <a href="https://www.linkedin.com/kyaa=goggins">
+          <a href="https://www.linkedin.com/in/kyaa-goggins/">
             linkedin.com/in/kyaa-goggins/
           </a>
         </li>
