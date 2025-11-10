@@ -1,5 +1,29 @@
 [
   {
+    "title": "Tech 4 Tots",
+    "imageSrc": "/assets/projects/T4THome.png",
+    "description": [
+      "Education and Technology Informative Portfolio",
+      "Interactive Axure prototype designed to present clear, informative content about the role of technology in K-12 education.",
+      "Prototype content explores the benefits and challenges of integrating digital tools into learning environments, with a strong emphasis on developmentally appropriate use of technology.",
+      "Using user-centered design principles, this prototype focuses on creating an  intuitive, accessible experience for teachers, students, and educational stakeholders.",
+      "Each page was crafted through iterative design decisions grounded in usability guidelines, cognitive load reduction, and real research on educational technology.",
+      "Custom designed logo, visual hierarchy, purposeful color and font choices, readable typography, and consistent alignment shown to support comprehension for users.",
+      "Combining thoughtful UI decisions, structured information architecture, and evidence-based design practices to demonstrate my strengths in frontend-focused interaction design and accessible layouts."
+    ],
+    "skills": [
+      "User-Centered Design",
+      "Wireframing and Prototyping",
+      "Usability Interaction Design",
+      "Color Theory",
+      "Typography Hierarchy",
+      "User Experience",
+      "Axure"
+    ],
+    "site": "https://2vl85n.axshare.com/?id=kab3bv&p=homepage&sc=1",
+    "source": "https://2vl85n.axshare.com/?id=kab3bv&p=homepage&sc=1"
+  },
+  {
     "title": "Fetch My Story",
     "imageSrc": "/assets/projects/fetchMyStory.png",
     "description": [
@@ -15,8 +39,10 @@
       "HTML",
       "CSS",
       "MaterialUi",
-      "UI/UX development",
-      "Full-stack collaboration"
+      "UI/UX Development",
+      "Full-stack Collaboration",
+      "OpenAI",
+      "API Development"
     ],
     "site": "https://fetchmystory.com/home.php",
     "source": "https://github.com/kyaagoggins/fetch-my-story"
